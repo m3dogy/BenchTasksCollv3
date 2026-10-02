@@ -1,1 +1,1 @@
-Customer Portal groundtruth workspace
+Groundtruth data for customer-portal

@@ -1,1 +1,1 @@
-Customer Portal initial workspace
+Initial workspace for customer-portal
